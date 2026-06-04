@@ -43,8 +43,8 @@
 
 ## 📫 Contact
 
-- **Email:** [youremail@domain.com](mailto:youremail@domain.com)
-- **LinkedIn:** [linkedin.com/in/tharaa-oueslati](#)
-- **Location:** Tunis, Tunisia
+- **Email:** [tharaoueslati@gmail.com](mailto:tharaoueslati@gmail.com)
+- **LinkedIn:** [[linkedin.com/in/tharaa-oueslati](https://www.linkedin.com/in/tharaa-oueslati-a470952b3/)](#)
+- **Location:** Korba, Tunisia
 
 > "Every security breach is a failure of imagination. I build systems that expect the unexpected."
